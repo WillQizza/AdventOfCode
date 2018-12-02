@@ -20,4 +20,4 @@ for (const str of input) {
     if (count.includes(3)) threes++;
     if (count.includes(2)) twos++;
 }
-console.log(threes, twos, threes * twos);
+console.log(threes, twos, threes * twos); //threes * twos will get you the result.
